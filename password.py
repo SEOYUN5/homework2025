@@ -1,6 +1,7 @@
 import random
 import string
 
+
 def generate_password():
     """사용자 설정에 따라 무작위 비밀번호를 생성하는 함수"""
     print("=== 강력한 비밀번호 생성기 ===")
