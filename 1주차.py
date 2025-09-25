@@ -2,8 +2,8 @@
 print("Hello, World!")
 
 2. 변수 저장 및 출력
-name = "앨리스"
-age = 20
+name = "김서윤   "
+age = 23
 print(name, "의 나이는", age, "세 입니다.")
 3. 두 수 더하기
 num1 = 5
@@ -18,8 +18,8 @@ combined = str1 + str2
 print(combined)
 
 5. 사용자 입력 받기
-city = input("살고 싶은 도시 이름을 입력하세요: ")
-print(city, "에 살고 싶으시군요!")
+school = input("다니는 학교를 쓰세요!: ")
+print(school, "에 다니시군요!")
 
 6. if/else 조건문
 my_age = 15
