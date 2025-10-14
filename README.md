@@ -28,3 +28,5 @@
 9/29: 딕셔너리를 사용하여 연산 기호와 함수를 연결  
 |  
 10/1: 오류 수정 및 함수 최소화 ⭐실행완료⭐️    
+|  
+추석 연휴(10/3 ~ 9) : 파이썬 알고리즘에 대해 공부 (ClosestPair.py, BFS.py, DFS.py, SelectionSort.py, SequentialSearch.py, StringMatching.py)  
