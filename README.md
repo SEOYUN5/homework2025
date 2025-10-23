@@ -30,3 +30,5 @@
 10/1: 오류 수정 및 함수 최소화 ⭐실행완료⭐️    
 |  
 추석 연휴(10/3 ~ 9) : 파이썬 알고리즘에 대해 공부 (ClosestPair.py, BFS.py, DFS.py, SelectionSort.py, SequentialSearch.py, StringMatching.py)  
+|  
+10/10~ 24: 시험기간으로 인해 모처럼 시간이 안나와 조금씩 코딩테스트 공부(codingtest.py)
