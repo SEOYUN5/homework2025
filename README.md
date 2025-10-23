@@ -31,4 +31,4 @@
 |  
 추석 연휴(10/3 ~ 9) : 파이썬 알고리즘에 대해 공부 (ClosestPair.py, BFS.py, DFS.py, SelectionSort.py, SequentialSearch.py, StringMatching.py)  
 |  
-10/10~ 24: 시험기간으로 인해 모처럼 시간이 안나와 조금씩 코딩테스트 공부 (백준이라는 코딩 사이트에서 문제를 받아 작성함) (codingtest.py)
+10/10~ 24: 시험기간으로 인해 모처럼 시간이 안나와 조금씩 코딩테스트 공부 (백준이라는 코딩 사이트에서 문제를 보고 작성함) (codingtest.py)
