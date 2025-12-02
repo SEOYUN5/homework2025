@@ -36,4 +36,5 @@ vs code를 사용하여 작성함.
 |  
 10/25~ 11/5: 백준 사이트에서 문제를 보고 작성함 (pythonbasic.py)  
 |  
-11/6~ 12/1: https://github.com/SEOYUN5/seoyun5.github.io 나 자신의 동기부여를 위해 포트폴리오를 작성(기존에 만들었던걸 추가기능을 많이넣고 하고싶은것에 대한것을 적음)
+11/6~ 12/1: https://github.com/SEOYUN5/seoyun5.github.io  
+나 자신의 동기부여를 위해 포트폴리오를 작성(기존에 만들었던걸 추가기능을 많이넣고 하고싶은것에 대한것을 적음)
